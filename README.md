@@ -109,5 +109,7 @@ In real-world applications, organisations must:
 
 
 Ayomide Ogunmakinwa
+
 MSc Data Science
+
 University of Salford
