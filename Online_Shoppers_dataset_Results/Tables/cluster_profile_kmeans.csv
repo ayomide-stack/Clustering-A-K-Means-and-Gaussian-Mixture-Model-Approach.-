@@ -1,0 +1,6 @@
+Cluster_KM,Administrative,Administrative_Duration,Informational,Informational_Duration,ProductRelated,ProductRelated_Duration,BounceRates,ExitRates,PageValues,SpecialDay
+0,1.077,29.393,0.193,7.691,21.224,788.518,0.01,0.035,3.349,0.003
+1,6.462,251.291,0.91,40.09,50.673,1861.505,0.005,0.018,17.642,0.006
+2,1.076,30.467,0.227,10.304,26.91,920.415,0.022,0.05,2.044,0.684
+3,0.032,1.107,0.01,0.0,2.361,40.048,0.183,0.189,0.0,0.065
+4,6.933,255.823,3.912,430.375,138.69,5744.273,0.007,0.02,6.711,0.022
