@@ -1,8 +1,6 @@
 # Online Shoppers Behaviour Clustering (MLDM)
 
-This repository contains an unsupervised machine learning project that I completed as part of the
-Machine Learning and Data Mining module in my MSc Data Science programme at the
-University of Salford.
+This repository contains an unsupervised machine learning project that I developed to explore behavioural patterns in online shopping sessions using clustering techniques.
 
 In this project, I worked with the **Online Shoppers Purchasing Intention Dataset** from the UCI Machine Learning Repository and applied clustering techniques to explore patterns in online shopper behaviour. The focus of the project was not only on applying clustering algorithms, but also on building a clear, reproducible analytical workflow and translating technical results into meaningful business insights for e-commerce decision-making.
 
